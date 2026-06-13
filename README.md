@@ -29,5 +29,5 @@ Uganda Christian University
 
 ## Contact
 Email: your-email@example.com
-LinkedIn: Add your LinkedIn URL
-GitHub: Add your GitHub URL
+LinkedIn: www.linkedin.com/in/agenorwot-cynthia-jillian-420b22387
+GitHub: https://github.com/cynthiaageno
